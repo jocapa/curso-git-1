@@ -6,6 +6,7 @@ Ainda outra linha
 Uma linha intrusa
 E outra...
 E mais outra linha!
+Aqui vai começar o texto:
 
 Um texto maior vai vir aqui
 Veja só
